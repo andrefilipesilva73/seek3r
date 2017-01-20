@@ -1,4 +1,5 @@
 //Dependencies
+const http = require('http');
 const https = require('https');
 
 /*
@@ -7,7 +8,14 @@ const https = require('https');
 module.exports = {
 	GetHTMLFileFromURL: function(url) {
 		return new Promise((resolve, reject) => {
-			https.get(url, (res) => {
+			//Check if address is http or https and select the right caller
+			var caller = http;
+			if(url.indexOf("https") == 0){
+				caller = https;
+			}
+
+			//Make the call
+			caller.get(url, (res) => {
 				const statusCode = res.statusCode;
 				const contentType = res.headers['content-type'];
 

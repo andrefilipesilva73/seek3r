@@ -1,27 +1,23 @@
 //Dependencies
 var htmlparser = require("htmlparser2");
-var defaultOptions = {
-	tagCount: true,
-	countAttrsByTag: true,
-	downloadedResourcesTracking: true,
-	childrenTrackByTag: true,
-	treeDeep: true
-}
 
 /*
  * Analytics Service for processing information from a DOM node
  */
 module.exports = {
-	GetAnalyticsFromDOMNode: function(domNode) {
-		var result = {};
+	GetAnalyticsFromDOMNode: function(domNode, options) {
+		var result = {
+			treeDeep: 0
+		};
 		for (var i = 0; i < domNode.length; i++) {
-			GetInfoFromDOMNode(domNode[i], defaultOptions, result);
+			var treeDeep = -1;
+			GetInfoFromDOMNode(domNode[i], options, result, treeDeep);
 		}
 		return result;
 	}
 };
 
-function GetInfoFromDOMNode(domNode, options, result) {
+function GetInfoFromDOMNode(domNode, options, result, treeDeep) {
 	//only accept HTML tags
 	if (!(domNode.type == "tag" || domNode.type == "script")) {
 		return;
@@ -132,11 +128,19 @@ function GetInfoFromDOMNode(domNode, options, result) {
 		}
 	}
 
+	//tree Deep
+	if (options.treeDeep == null || options.treeDeep == true) {
+		treeDeep++;
+		if (treeDeep > result.treeDeep) {
+			result.treeDeep = treeDeep;
+		}
+	}
+
 	//has children?
 	if (domNode.children != null) {
 		//yes, so for each child...
 		for (var i = 0; i < domNode.children.length; i++) {
-			GetInfoFromDOMNode(domNode.children[i], options, result);
+			GetInfoFromDOMNode(domNode.children[i], options, result, treeDeep);
 		}
 	}
 }

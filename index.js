@@ -86,7 +86,13 @@ function StartProcess(url) {
 			status = new Spinner("Processing Analytics from DOM, please wait...");
 			status.start();
 
-			var result = AnalyticsService.GetAnalyticsFromDOMNode(domNode);
+			var result = AnalyticsService.GetAnalyticsFromDOMNode(domNode, {
+				tagCount: false,
+				countAttrsByTag: false,
+				downloadedResourcesTracking: false,
+				childrenTrackByTag: false,
+				treeDeep: true
+			});
 
 			//Stop Loading
 			status.stop();
