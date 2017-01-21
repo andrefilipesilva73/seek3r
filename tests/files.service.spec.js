@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const fs = require('fs');
+const fs = require('fs-extra')
 const path = require('path');
 const FilesService = require('../services/files.service');
 
@@ -8,7 +8,7 @@ describe('The Files Service', function() {
 
 		//Write File
 		var NowDate = new Date();
-		var resultsFilePath = path.join(__dirname, "../results/test" + NowDate.getMilliseconds() + ".json");
+		var resultsFilePath = path.join(__dirname, "../results/test" + NowDate.getTime() + ".json");
 		FilesService.WriteObjectToFileSync(resultsFilePath, {});
 
 		//Check Existence
@@ -22,11 +22,11 @@ describe('The Files Service', function() {
 		//Assert
 		expect(exists).to.equal(true);
 	});
-  it('Saves object right', function() {
+	it('Saves object right', function() {
 
 		//Write File
 		var NowDate = new Date();
-		var resultsFilePath = path.join(__dirname, "../results/test" + NowDate.getMilliseconds() + ".json");
+		var resultsFilePath = path.join(__dirname, "../results/test" + NowDate.getTime() + ".json");
 		FilesService.WriteObjectToFileSync(resultsFilePath, {
 			hello: "world"
 		});
@@ -34,11 +34,16 @@ describe('The Files Service', function() {
 		//Check Existence
 		var exists = fs.existsSync(resultsFilePath);
 
-    //file contents
-    var contents = fs.readFileSync(resultsFilePath, "utf-8");
+		//file contents
+		var contents = fs.readFileSync(resultsFilePath, "utf-8");
 
-    //Parse Object
-    var resultObject = JSON.parse(contents);
+		//Delete file
+		if (exists) {
+			fs.unlinkSync(resultsFilePath);
+		}
+
+		//Parse Object
+		var resultObject = JSON.parse(contents);
 
 		//Assert
 		expect(resultObject.hello).to.equal("world");
