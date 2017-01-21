@@ -1,0 +1,1236 @@
+{
+    "treeDeep": 16,
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "meta": 50,
+        "link": 20,
+        "title": 1,
+        "body": 1,
+        "div": 63,
+        "a": 73,
+        "header": 1,
+        "svg": 37,
+        "path": 37,
+        "button": 7,
+        "nav": 3,
+        "form": 1,
+        "input": 4,
+        "label": 1,
+        "ul": 5,
+        "li": 23,
+        "h1": 2,
+        "span": 55,
+        "strong": 1,
+        "ol": 1,
+        "h4": 1,
+        "p": 6,
+        "i": 1,
+        "relative-time": 1,
+        "img": 9,
+        "table": 1,
+        "tbody": 1,
+        "tr": 9,
+        "td": 34,
+        "time-ago": 8,
+        "h3": 1,
+        "article": 1,
+        "pre": 4,
+        "script": 3
+    },
+    "countAttrsByTag": {
+        "html": 2,
+        "head": 1,
+        "meta": 103,
+        "link": 63,
+        "title": 0,
+        "body": 1,
+        "div": 86,
+        "a": 234,
+        "header": 2,
+        "svg": 223,
+        "path": 68,
+        "button": 28,
+        "nav": 7,
+        "form": 6,
+        "input": 22,
+        "label": 1,
+        "ul": 4,
+        "li": 3,
+        "h1": 1,
+        "span": 66,
+        "strong": 1,
+        "ol": 1,
+        "h4": 1,
+        "p": 1,
+        "i": 0,
+        "relative-time": 1,
+        "img": 45,
+        "table": 2,
+        "tbody": 0,
+        "tr": 9,
+        "td": 35,
+        "time-ago": 8,
+        "h3": 0,
+        "article": 2,
+        "pre": 0,
+        "script": 7
+    },
+    "downloadedResourcesTracking": {
+        "video": [],
+        "audio": [],
+        "img": [
+            "https://avatars2.githubusercontent.com/u/16417550?v=3&amp;s=40",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif",
+            "https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif"
+        ],
+        "link": [
+            "https://assets-cdn.github.com/assets/frameworks-c07e6f4b02b556d1d85052fb3853caf84c80e6b23dcdb1ae1b00f051da1115a2.css",
+            "https://assets-cdn.github.com/assets/github-09e1c38d593bf8fc6e4c4f1b526d0184e27c433d64963942c1e8c361589f8125.css",
+            "https://assets-cdn.github.com/assets/site-293f92180d0a619a750fa2b5eae9e36740f5723a59c0ec308972c70d24e834fc.css",
+            "/opensearch.xml",
+            "https://github.com/fluidicon.png",
+            "/apple-touch-icon.png",
+            "/apple-touch-icon-57x57.png",
+            "/apple-touch-icon-60x60.png",
+            "/apple-touch-icon-72x72.png",
+            "/apple-touch-icon-76x76.png",
+            "/apple-touch-icon-114x114.png",
+            "/apple-touch-icon-120x120.png",
+            "/apple-touch-icon-144x144.png",
+            "/apple-touch-icon-152x152.png",
+            "/apple-touch-icon-180x180.png",
+            "https://assets-cdn.github.com/",
+            "https://assets-cdn.github.com/pinned-octocat.svg",
+            "https://assets-cdn.github.com/favicon.ico",
+            "https://github.com/andrefilipesilva73/seek3r/commits/master.atom",
+            "https://github.com/andrefilipesilva73/seek3r"
+        ],
+        "script": [
+            "https://assets-cdn.github.com/assets/compat-8e19569aacd39e737a14c8515582825f3c90d1794c0e5539f9b525b8eb8b5a8e.js",
+            "https://assets-cdn.github.com/assets/frameworks-0ee1e6d787ddac4315f0fba42bae891a66d68404f044c42f54669c8c051f0169.js",
+            "https://assets-cdn.github.com/assets/github-8af8443e5782b19eb1685a8584599ea0f389d3578060b411c7c7c844691105c3.js"
+        ],
+        "embed": []
+    },
+    "childrenTrackByTag": {
+        "html": {
+            "count": 2,
+            "children": [
+                [
+                    "head",
+                    "body"
+                ]
+            ]
+        },
+        "head": {
+            "count": 68,
+            "children": [
+                [
+                    "meta",
+                    "link",
+                    "link",
+                    "link",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "title",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "link",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "link",
+                    "link",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "link",
+                    "link"
+                ]
+            ]
+        },
+        "meta": {
+            "count": 0,
+            "children": []
+        },
+        "link": {
+            "count": 0,
+            "children": []
+        },
+        "title": {
+            "count": 0,
+            "children": []
+        },
+        "body": {
+            "count": 13,
+            "children": [
+                [
+                    "div",
+                    "a",
+                    "header",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "script",
+                    "script",
+                    "script",
+                    "div",
+                    "div"
+                ]
+            ]
+        },
+        "div": {
+            "count": 96,
+            "children": [
+                [
+                    "div"
+                ],
+                [
+                    "a",
+                    "button",
+                    "div"
+                ],
+                [
+                    "nav",
+                    "div",
+                    "nav"
+                ],
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "form"
+                ],
+                [
+                    "input"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "ul",
+                    "h1"
+                ],
+                [
+                    "nav"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "ul",
+                    "div"
+                ],
+                [
+                    "ol"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "button",
+                    "div"
+                ],
+                [
+                    "button",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "h4",
+                    "p",
+                    "div"
+                ],
+                [
+                    "input",
+                    "div"
+                ],
+                [
+                    "button"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "button",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "input"
+                ],
+                [
+                    "ul"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "span",
+                    "span",
+                    "a"
+                ],
+                [
+                    "a",
+                    "table"
+                ],
+                [
+                    "h3",
+                    "article"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "ul",
+                    "a",
+                    "ul"
+                ],
+                [
+                    "svg",
+                    "button"
+                ],
+                [
+                    "svg",
+                    "span",
+                    "span"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "button"
+                ]
+            ]
+        },
+        "a": {
+            "count": 36,
+            "children": [
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg",
+                    "span",
+                    "meta"
+                ],
+                [
+                    "svg",
+                    "span",
+                    "span",
+                    "meta"
+                ],
+                [
+                    "svg",
+                    "span",
+                    "span",
+                    "meta"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg",
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ]
+            ]
+        },
+        "header": {
+            "count": 1,
+            "children": [
+                [
+                    "div"
+                ]
+            ]
+        },
+        "svg": {
+            "count": 37,
+            "children": [
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ]
+            ]
+        },
+        "path": {
+            "count": 0,
+            "children": []
+        },
+        "button": {
+            "count": 7,
+            "children": [
+                [
+                    "svg"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "i",
+                    "span"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ]
+            ]
+        },
+        "nav": {
+            "count": 15,
+            "children": [
+                [
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "div"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span",
+                    "a",
+                    "a",
+                    "a"
+                ]
+            ]
+        },
+        "form": {
+            "count": 2,
+            "children": [
+                [
+                    "div",
+                    "label"
+                ]
+            ]
+        },
+        "input": {
+            "count": 0,
+            "children": []
+        },
+        "label": {
+            "count": 2,
+            "children": [
+                [
+                    "div",
+                    "input"
+                ]
+            ]
+        },
+        "ul": {
+            "count": 22,
+            "children": [
+                [
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ]
+            ]
+        },
+        "li": {
+            "count": 26,
+            "children": [
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "h1": {
+            "count": 5,
+            "children": [
+                [
+                    "svg",
+                    "span",
+                    "span",
+                    "strong"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "span": {
+            "count": 35,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a",
+                    "span"
+                ],
+                [
+                    "relative-time"
+                ],
+                [
+                    "img",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "time-ago"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "strong": {
+            "count": 1,
+            "children": [
+                [
+                    "a"
+                ]
+            ]
+        },
+        "ol": {
+            "count": 1,
+            "children": [
+                [
+                    "li"
+                ]
+            ]
+        },
+        "h4": {
+            "count": 1,
+            "children": [
+                [
+                    "a"
+                ]
+            ]
+        },
+        "p": {
+            "count": 0,
+            "children": []
+        },
+        "i": {
+            "count": 0,
+            "children": []
+        },
+        "relative-time": {
+            "count": 0,
+            "children": []
+        },
+        "img": {
+            "count": 0,
+            "children": []
+        },
+        "table": {
+            "count": 1,
+            "children": [
+                [
+                    "tbody"
+                ]
+            ]
+        },
+        "tbody": {
+            "count": 9,
+            "children": [
+                [
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr"
+                ]
+            ]
+        },
+        "tr": {
+            "count": 34,
+            "children": [
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td",
+                    "td",
+                    "td"
+                ]
+            ]
+        },
+        "td": {
+            "count": 41,
+            "children": [
+                [
+                    "svg"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "svg",
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ]
+            ]
+        },
+        "time-ago": {
+            "count": 0,
+            "children": []
+        },
+        "h3": {
+            "count": 1,
+            "children": [
+                [
+                    "svg"
+                ]
+            ]
+        },
+        "article": {
+            "count": 10,
+            "children": [
+                [
+                    "h1",
+                    "p",
+                    "p",
+                    "div",
+                    "p",
+                    "div",
+                    "p",
+                    "div",
+                    "p",
+                    "div"
+                ]
+            ]
+        },
+        "pre": {
+            "count": 1,
+            "children": [
+                [
+                    "span"
+                ]
+            ]
+        },
+        "script": {
+            "count": 0,
+            "children": []
+        }
+    }
+}

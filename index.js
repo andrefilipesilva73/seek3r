@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 //Dependencies
-var fs = require('fs');
 var chalk = require('chalk');
 var clear = require('clear');
 var CLI = require('clui');
@@ -16,6 +15,7 @@ var open = require("open");
 var DownloadService = require('./services/download.service');
 var DOMService = require('./services/dom.service');
 var AnalyticsService = require('./services/analytics.service');
+var FilesService = require('./services/files.service');
 
 //Clear Console
 clear();
@@ -159,7 +159,7 @@ function SaveResultFile(result) {
 	var NowDate = new Date();
 	var fileName = `${NowDate.getFullYear()}_${NowDate.getMonth() + 1}_${NowDate.getDate()}_${NowDate.getHours()}_${NowDate.getMinutes()}_${NowDate.getSeconds()}_${NowDate.getMilliseconds()}`;
 	var filePath = resultsDirectoryPath + "/" + fileName + ".json";
-	WriteObjectToFileSync(filePath, result);
+	FilesService.WriteObjectToFileSync(filePath, result);
 
 	//Stop Loading
 	status.stop();
@@ -219,9 +219,4 @@ function DisplayErrorAndExit(errorMessage) {
 //Display Display Done Message
 function DisplayDoneMessage(message) {
 	console.log(chalk.white(message) + " " + chalk.green("Done!"));
-}
-
-//Write JavaScript Object to file
-function WriteObjectToFileSync(filePath, obj) {
-	fs.writeFileSync(filePath, JSON.stringify(obj, null, 4));
 }

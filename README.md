@@ -1,6 +1,6 @@
 # seek3r
 
-Read markup info from URL
+Read markup info from an HTML remote resource
 
 Install Globally and Run:
 
@@ -14,14 +14,20 @@ Simple usage:
 seek3r
 ```
 
-With Remote HTMl resource URL:
+With Remote HTML resource URL:
 
 ```js
 seek3r [url from remote resource]
 ```
 
-With Remote HTMl resource URL and Open Results file at the end flag:
+With Remote HTML resource URL and Open Results file at the end flag:
 
 ```js
 seek3r [url from remote resource] [y/n]
+```
+
+Test:
+
+```sh
+npm test
 ```
