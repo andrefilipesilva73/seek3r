@@ -119,12 +119,16 @@ function GetInfoFromDOMNode(domNode, options, result, treeDeep) {
 			};
 		}
 		if (domNode.children != null) {
-			result.childrenTrackByTag[domNode.name].count += domNode.children.length;
 			var currentNodeChildren = [];
 			for (var i = 0; i < domNode.children.length; i++) {
-				currentNodeChildren.push(domNode.children[i].name);
+				if (domNode.children[i] != null && domNode.children[i].name != null) {
+					currentNodeChildren.push(domNode.children[i].name);
+				}
 			}
-			result.childrenTrackByTag[domNode.name].children.push(currentNodeChildren);
+			if (currentNodeChildren.length > 0) {
+				result.childrenTrackByTag[domNode.name].children.push(currentNodeChildren);
+				result.childrenTrackByTag[domNode.name].count += currentNodeChildren.length;
+			}
 		}
 	}
 

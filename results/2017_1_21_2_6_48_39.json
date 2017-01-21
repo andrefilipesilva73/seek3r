@@ -1,0 +1,1549 @@
+{
+    "treeDeep": 10,
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "title": 1,
+        "meta": 4,
+        "link": 3,
+        "script": 21,
+        "base": 1,
+        "body": 1,
+        "div": 85,
+        "a": 373,
+        "span": 17,
+        "ul": 1,
+        "li": 18,
+        "i": 6,
+        "h3": 16,
+        "br": 80,
+        "h2": 11,
+        "h1": 1,
+        "hr": 6,
+        "p": 7,
+        "em": 9,
+        "table": 2,
+        "tr": 53,
+        "th": 4,
+        "td": 102,
+        "h4": 8,
+        "img": 2,
+        "form": 1,
+        "label": 3,
+        "input": 2,
+        "textarea": 1,
+        "button": 1
+    },
+    "countAttrsByTag": {
+        "html": 1,
+        "head": 0,
+        "title": 0,
+        "meta": 7,
+        "link": 7,
+        "script": 23,
+        "base": 1,
+        "body": 0,
+        "div": 109,
+        "a": 582,
+        "span": 25,
+        "ul": 2,
+        "li": 5,
+        "i": 9,
+        "h3": 0,
+        "br": 0,
+        "h2": 7,
+        "h1": 0,
+        "hr": 0,
+        "p": 0,
+        "em": 0,
+        "table": 2,
+        "tr": 0,
+        "th": 2,
+        "td": 0,
+        "h4": 0,
+        "img": 5,
+        "form": 0,
+        "label": 3,
+        "input": 11,
+        "textarea": 5,
+        "button": 2
+    },
+    "downloadedResourcesTracking": {
+        "video": [],
+        "audio": [],
+        "img": [
+            "/images/colorpicker.gif",
+            "/images/w3schoolscom_gray.gif"
+        ],
+        "link": [
+            "/favicon.ico",
+            "/lib/w3.css",
+            "http://www.w3schools.com/jsref/jsref_obj_date.asp"
+        ],
+        "script": [
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "/ezoic/imp2.js?cb=143-1&v=9",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "[inline]",
+            "/lib/w3schools_footer.js",
+            "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit",
+            "//www.w3schools.com/utilcave_com/inc/ezf-min.php?a=a&cb=1&shcb=5"
+        ],
+        "embed": []
+    },
+    "childrenTrackByTag": {
+        "html": {
+            "count": 2,
+            "children": [
+                [
+                    "head",
+                    "body"
+                ]
+            ]
+        },
+        "head": {
+            "count": 21,
+            "children": [
+                [
+                    "title",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "link",
+                    "link",
+                    "style",
+                    "script",
+                    "script",
+                    "script",
+                    "script",
+                    "link",
+                    "script",
+                    "script",
+                    "script",
+                    "base",
+                    "script",
+                    "script",
+                    "script",
+                    "script"
+                ]
+            ]
+        },
+        "title": {
+            "count": 0,
+            "children": []
+        },
+        "meta": {
+            "count": 0,
+            "children": []
+        },
+        "link": {
+            "count": 0,
+            "children": []
+        },
+        "script": {
+            "count": 0,
+            "children": []
+        },
+        "base": {
+            "count": 0,
+            "children": []
+        },
+        "body": {
+            "count": 9,
+            "children": [
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "script",
+                    "script",
+                    "script"
+                ]
+            ]
+        },
+        "div": {
+            "count": 501,
+            "children": [
+                [
+                    "a",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "ul",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "span",
+                    "div",
+                    "br"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "div"
+                ],
+                [
+                    "br",
+                    "br"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "h3",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "span",
+                    "div",
+                    "br"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "h3",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "span",
+                    "div",
+                    "br"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "h3",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "a",
+                    "div",
+                    "br",
+                    "br"
+                ],
+                [
+                    "h2",
+                    "a",
+                    "br",
+                    "h2",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "br",
+                    "h2",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "br",
+                    "h2",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "br",
+                    "h2",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "br",
+                    "h2",
+                    "a",
+                    "br"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div",
+                    "h1",
+                    "div",
+                    "hr",
+                    "h2",
+                    "p",
+                    "p",
+                    "p",
+                    "div",
+                    "p",
+                    "hr",
+                    "h2",
+                    "table",
+                    "h2",
+                    "table",
+                    "br",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "script"
+                ],
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "br",
+                    "em",
+                    "br",
+                    "em",
+                    "br",
+                    "em",
+                    "em",
+                    "em",
+                    "em",
+                    "em",
+                    "em",
+                    "em"
+                ],
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "script"
+                ],
+                [
+                    "h4",
+                    "a"
+                ],
+                [
+                    "h4",
+                    "p"
+                ],
+                [
+                    "h4",
+                    "div"
+                ],
+                [
+                    "script",
+                    "br",
+                    "br",
+                    "a",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h4",
+                    "p",
+                    "a"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "script"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "script"
+                ],
+                [
+                    "hr",
+                    "div",
+                    "div",
+                    "hr",
+                    "div",
+                    "hr",
+                    "div",
+                    "div",
+                    "div",
+                    "hr",
+                    "div",
+                    "br",
+                    "br"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "script"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "script"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "span",
+                    "h2",
+                    "form"
+                ],
+                [
+                    "label",
+                    "input"
+                ],
+                [
+                    "label",
+                    "input"
+                ],
+                [
+                    "label",
+                    "textarea"
+                ],
+                [
+                    "button"
+                ],
+                [
+                    "span",
+                    "h2",
+                    "p"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h4",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h4",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h4",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h4",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br"
+                ],
+                [
+                    "a",
+                    "a",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "br",
+                    "a"
+                ]
+            ]
+        },
+        "a": {
+            "count": 10,
+            "children": [
+                [
+                    "span"
+                ],
+                [
+                    "i",
+                    "i"
+                ],
+                [
+                    "i",
+                    "i"
+                ],
+                [
+                    "i",
+                    "i"
+                ],
+                [
+                    "img"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "img"
+                ]
+            ]
+        },
+        "span": {
+            "count": 0,
+            "children": []
+        },
+        "ul": {
+            "count": 18,
+            "children": [
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ]
+            ]
+        },
+        "li": {
+            "count": 18,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "i": {
+            "count": 0,
+            "children": []
+        },
+        "h3": {
+            "count": 0,
+            "children": []
+        },
+        "br": {
+            "count": 0,
+            "children": []
+        },
+        "h2": {
+            "count": 6,
+            "children": [
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ]
+            ]
+        },
+        "h1": {
+            "count": 1,
+            "children": [
+                [
+                    "span"
+                ]
+            ]
+        },
+        "hr": {
+            "count": 0,
+            "children": []
+        },
+        "p": {
+            "count": 35,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br",
+                    "a",
+                    "br"
+                ]
+            ]
+        },
+        "em": {
+            "count": 0,
+            "children": []
+        },
+        "table": {
+            "count": 53,
+            "children": [
+                [
+                    "tr",
+                    "tr",
+                    "tr"
+                ],
+                [
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr",
+                    "tr"
+                ]
+            ]
+        },
+        "tr": {
+            "count": 106,
+            "children": [
+                [
+                    "th",
+                    "th"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "th",
+                    "th"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ],
+                [
+                    "td",
+                    "td"
+                ]
+            ]
+        },
+        "th": {
+            "count": 0,
+            "children": []
+        },
+        "td": {
+            "count": 54,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "span",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "span",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "span",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "h4": {
+            "count": 3,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "img": {
+            "count": 0,
+            "children": []
+        },
+        "form": {
+            "count": 5,
+            "children": [
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div",
+                    "br"
+                ]
+            ]
+        },
+        "label": {
+            "count": 0,
+            "children": []
+        },
+        "input": {
+            "count": 0,
+            "children": []
+        },
+        "textarea": {
+            "count": 0,
+            "children": []
+        },
+        "button": {
+            "count": 0,
+            "children": []
+        }
+    }
+}

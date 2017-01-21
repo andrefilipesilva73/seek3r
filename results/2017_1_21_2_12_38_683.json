@@ -1,0 +1,995 @@
+{
+    "treeDeep": 13,
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "meta": 24,
+        "title": 1,
+        "link": 21,
+        "script": 5,
+        "body": 1,
+        "header": 1,
+        "div": 28,
+        "a": 108,
+        "svg": 9,
+        "path": 10,
+        "form": 2,
+        "input": 5,
+        "button": 1,
+        "span": 75,
+        "ellipse": 1,
+        "ul": 10,
+        "li": 40,
+        "rect": 3,
+        "nav": 1,
+        "h1": 6,
+        "i": 1,
+        "p": 9,
+        "label": 1,
+        "pre": 3,
+        "code": 7,
+        "h3": 10,
+        "img": 4,
+        "strong": 4,
+        "small": 1,
+        "footer": 1,
+        "hr": 3
+    },
+    "countAttrsByTag": {
+        "html": 2,
+        "head": 0,
+        "meta": 47,
+        "title": 0,
+        "link": 66,
+        "script": 10,
+        "body": 3,
+        "header": 1,
+        "div": 35,
+        "a": 157,
+        "svg": 31,
+        "path": 16,
+        "form": 8,
+        "input": 22,
+        "button": 2,
+        "span": 46,
+        "ellipse": 5,
+        "ul": 9,
+        "li": 24,
+        "rect": 15,
+        "nav": 2,
+        "h1": 2,
+        "i": 1,
+        "p": 5,
+        "label": 2,
+        "pre": 2,
+        "code": 0,
+        "h3": 5,
+        "img": 9,
+        "strong": 3,
+        "small": 0,
+        "footer": 1,
+        "hr": 3
+    },
+    "downloadedResourcesTracking": {
+        "video": [],
+        "audio": [],
+        "img": [
+            "https://s.gravatar.com/avatar/d7b97642d7aeaf1011ec19e5779144e0?size&#x3D;100&amp;default&#x3D;retro",
+            "/static/images/osi.svg",
+            "https://s.gravatar.com/avatar/45d9cd3347995c222b4ff7a78dd5dea7?size&#x3D;100&amp;default&#x3D;retro",
+            "https://s.gravatar.com/avatar/d7b97642d7aeaf1011ec19e5779144e0?size&#x3D;100&amp;default&#x3D;retro"
+        ],
+        "link": [
+            "https://www.npmjs.com/package/open",
+            "/opensearch.xml",
+            "/static/css/index.css?last-changed&#x3D;d7a9ba8458ac16844320fade8881e12a",
+            "//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700",
+            "/static/images/touch-icons/apple-touch-icon-57x57.png",
+            "/static/images/touch-icons/apple-touch-icon-60x60.png",
+            "/static/images/touch-icons/apple-touch-icon-72x72.png",
+            "/static/images/touch-icons/apple-touch-icon-76x76.png",
+            "/static/images/touch-icons/apple-touch-icon-114x114.png",
+            "/static/images/touch-icons/apple-touch-icon-120x120.png",
+            "/static/images/touch-icons/apple-touch-icon-144x144.png",
+            "/static/images/touch-icons/apple-touch-icon-152x152.png",
+            "/static/images/touch-icons/apple-touch-icon-180x180.png",
+            "/static/images/touch-icons/favicon-32x32.png",
+            "/static/images/touch-icons/favicon-230x230.png",
+            "/static/images/touch-icons/favicon-96x96.png",
+            "/static/images/touch-icons/android-chrome-192x192.png",
+            "/static/images/touch-icons/coast-228x228.png",
+            "/static/images/touch-icons/favicon-16x16.png",
+            "/static/images/touch-icons/manifest.json",
+            "/static/images/touch-icons/yandex-browser-manifest.json"
+        ],
+        "script": [
+            "/static/js/index.min.js?last-changed&#x3D;087edc1010d4611902119beb6e0caca4",
+            "[inline]",
+            "/static/js/vendor.min.js?last-changed&#x3D;1d4a4436c0b4dcadb967d94da68ac9f5",
+            "https://cdn.optimizely.com/js/3318080746.js",
+            "//img.en25.com/i/elqCfg.min.js"
+        ],
+        "embed": []
+    },
+    "childrenTrackByTag": {
+        "html": {
+            "count": 2,
+            "children": [
+                [
+                    "head",
+                    "body"
+                ]
+            ]
+        },
+        "head": {
+            "count": 46,
+            "children": [
+                [
+                    "meta",
+                    "title",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "script",
+                    "style",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "link",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta",
+                    "meta"
+                ]
+            ]
+        },
+        "meta": {
+            "count": 0,
+            "children": []
+        },
+        "title": {
+            "count": 0,
+            "children": []
+        },
+        "link": {
+            "count": 0,
+            "children": []
+        },
+        "script": {
+            "count": 0,
+            "children": []
+        },
+        "body": {
+            "count": 7,
+            "children": [
+                [
+                    "meta",
+                    "header",
+                    "div",
+                    "footer",
+                    "script",
+                    "script",
+                    "script"
+                ]
+            ]
+        },
+        "header": {
+            "count": 4,
+            "children": [
+                [
+                    "div",
+                    "div",
+                    "div",
+                    "div"
+                ]
+            ]
+        },
+        "div": {
+            "count": 70,
+            "children": [
+                [
+                    "div"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "form"
+                ],
+                [
+                    "input"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "ul"
+                ],
+                [
+                    "a",
+                    "div"
+                ],
+                [
+                    "a",
+                    "div"
+                ],
+                [
+                    "nav"
+                ],
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "h1",
+                    "p",
+                    "form",
+                    "div"
+                ],
+                [
+                    "h1",
+                    "p",
+                    "h1",
+                    "div",
+                    "p",
+                    "div",
+                    "h1",
+                    "pre",
+                    "h1",
+                    "ul",
+                    "h1",
+                    "p"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "pre"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "div",
+                    "div",
+                    "ul",
+                    "h3",
+                    "ul",
+                    "h3",
+                    "ul",
+                    "h3",
+                    "ul",
+                    "h3",
+                    "p",
+                    "h3",
+                    "p",
+                    "h3",
+                    "p",
+                    "script",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "h3",
+                    "p"
+                ],
+                [
+                    "input",
+                    "p"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "div",
+                    "div",
+                    "div"
+                ],
+                [
+                    "h3",
+                    "hr",
+                    "ul"
+                ],
+                [
+                    "h3",
+                    "hr",
+                    "ul"
+                ],
+                [
+                    "h3",
+                    "hr",
+                    "ul"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "a": {
+            "count": 14,
+            "children": [
+                [
+                    "svg"
+                ],
+                [
+                    "span",
+                    "svg"
+                ],
+                [
+                    "span",
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "svg"
+                ],
+                [
+                    "img",
+                    "span"
+                ],
+                [
+                    "img"
+                ],
+                [
+                    "img"
+                ]
+            ]
+        },
+        "svg": {
+            "count": 14,
+            "children": [
+                [
+                    "path",
+                    "path"
+                ],
+                [
+                    "ellipse",
+                    "path"
+                ],
+                [
+                    "path",
+                    "path"
+                ],
+                [
+                    "rect",
+                    "rect",
+                    "rect"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ],
+                [
+                    "path"
+                ]
+            ]
+        },
+        "path": {
+            "count": 0,
+            "children": []
+        },
+        "form": {
+            "count": 7,
+            "children": [
+                [
+                    "meta",
+                    "div",
+                    "button"
+                ],
+                [
+                    "input",
+                    "input",
+                    "label",
+                    "input"
+                ]
+            ]
+        },
+        "input": {
+            "count": 0,
+            "children": []
+        },
+        "button": {
+            "count": 2,
+            "children": [
+                [
+                    "span",
+                    "svg"
+                ]
+            ]
+        },
+        "span": {
+            "count": 67,
+            "children": [
+                [
+                    "span",
+                    "span",
+                    "span",
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span",
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span",
+                    "span",
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "span"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "ellipse": {
+            "count": 0,
+            "children": []
+        },
+        "ul": {
+            "count": 40,
+            "children": [
+                [
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ],
+                [
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li",
+                    "li"
+                ]
+            ]
+        },
+        "li": {
+            "count": 47,
+            "children": [
+                [
+                    "a",
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "code",
+                    "code"
+                ],
+                [
+                    "code",
+                    "code"
+                ],
+                [
+                    "code",
+                    "a"
+                ],
+                [
+                    "a",
+                    "span"
+                ],
+                [
+                    "strong"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a",
+                    "img"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "strong"
+                ],
+                [
+                    "strong"
+                ],
+                [
+                    "strong"
+                ],
+                [
+                    "span",
+                    "span"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "rect": {
+            "count": 0,
+            "children": []
+        },
+        "nav": {
+            "count": 1,
+            "children": [
+                [
+                    "ul"
+                ]
+            ]
+        },
+        "h1": {
+            "count": 7,
+            "children": [
+                [
+                    "a",
+                    "i"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "i": {
+            "count": 0,
+            "children": []
+        },
+        "p": {
+            "count": 60,
+            "children": [
+                [
+                    "code"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ],
+                [
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a",
+                    "a"
+                ]
+            ]
+        },
+        "label": {
+            "count": 0,
+            "children": []
+        },
+        "pre": {
+            "count": 4,
+            "children": [
+                [
+                    "div",
+                    "div"
+                ],
+                [
+                    "div"
+                ],
+                [
+                    "code"
+                ]
+            ]
+        },
+        "code": {
+            "count": 0,
+            "children": []
+        },
+        "h3": {
+            "count": 3,
+            "children": [
+                [
+                    "a"
+                ],
+                [
+                    "small"
+                ],
+                [
+                    "a"
+                ]
+            ]
+        },
+        "img": {
+            "count": 0,
+            "children": []
+        },
+        "strong": {
+            "count": 0,
+            "children": []
+        },
+        "small": {
+            "count": 1,
+            "children": [
+                [
+                    "a"
+                ]
+            ]
+        },
+        "footer": {
+            "count": 2,
+            "children": [
+                [
+                    "div",
+                    "div"
+                ]
+            ]
+        },
+        "hr": {
+            "count": 0,
+            "children": []
+        }
+    }
+}
