@@ -1,4 +1,4 @@
-PT
+PT |
 Exercício Prático
 ==============================
 
@@ -16,7 +16,7 @@ Exemplos de meta informação pertinente:
 * A profundidade da árvore;
 
 
-EN
+EN |
 Practical Exercise
 ==============================
 
